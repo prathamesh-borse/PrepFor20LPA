@@ -1,4 +1,6 @@
-- Primitive Datatypes cannot be divided further.
+### Primitive Datatypes are stored in stack memory, Objects are stored in heap memory.
+
+- Primitive Datatype cannot be divided further.
 - for example: String name = “Prathamesh”; this can be further divider into separate character like
 - char name = ‘p’; char  name1 = ‘r’; // like wise we cannot divide the primitive datatypes like
 - int, boolean, char, float, double, long
@@ -31,7 +33,7 @@ public class TypeCasting{
 
 ## Narrowing Conversion:
 
-You have explicitly do the conversion from int to float.
+You have explicitly done the conversion from int to float.
 
 ```java
 public class NarrowingTypeCasting{

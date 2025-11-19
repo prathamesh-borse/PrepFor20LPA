@@ -1,4 +1,4 @@
-
+### Arrays are mutable in Java.
 
 ### Array Notes
 - An array is a fixed-size data structure

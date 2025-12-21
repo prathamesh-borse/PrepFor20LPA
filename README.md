@@ -17,7 +17,7 @@ Practice repository for building strong Java fundamentals on the path to 20 LPA+
 ### Option A: Run with IntelliJ IDEA
 1. Open **File → Open…** and select the repository folder.
 2. Ensure the project SDK is **JDK 17**.
-3. Right-click a file (e.g., `Main.java` or any class with `public static void main`) → **Run**.
+3. Right-click a file (e.g., `EqualsAndHashCode.java` or any class with `public static void main`) → **Run**.
 
 ### Option B: Run from the Terminal
 ```bash

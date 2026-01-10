@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f35623e-6d97-4990-978a-f45574d9db82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Development/src/ConcurrentModificationException/HashMapThrowsCME.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Development/src/StrongWeakReference/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/Assignment/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/Assignment/SharedFixedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/AssignmentSolution/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/AssignmentSolution/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/AssignmentSolution/SharedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/AssignmentSolution/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/Deprecatedmethods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/Deprecatedmethods/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/ExtendingThreadClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/ExtendingThreadClass/MultithreadingLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/ImplementingRunnableInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/ImplementingRunnableInterface/MultithreadingLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/MonitorLockExample/MonitorLockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/MonitorLockExample/MonitorLockExampleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/MonitorLockExample/MonitorThreadRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/MonitorLockRealExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrep/src/Multithreading/MonitorLockRealExample/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/FindPivotIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/FindPrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/LongestSubArrayWithSumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/MaxSumSubarraySizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/MergeInterval/InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/MergeInterval/IntervalListIntersections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/MoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/POTD/FourDivisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/POTD/MaxDotProductOfTwoSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/POTD/MaximumMatrixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/POTD/NRepeatedElementSize2NArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/POTD/NumberOfWaysToPaint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/POTD/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/POTD/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/POTD/TreeNodeMaximumProductofSplittedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/PrintAllSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/SubArraySumDivisibleByK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision/Revision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision/src/TwoPointers/MoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revision/src/TwoPointers/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrep/JavaPrep.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/BackspaceStringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/BackspaceStringCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/ContiguousArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/ContiguousArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/FindAllAnagramInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/FindAllAnagramInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/HappyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/LongestSubstringWithoutRepeatingChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/LongestSubstringWithoutRepeatingChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/LongestSubstringwithKUniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/LongestSubstringwithKUniques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/MaximumSizeSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MaximumSizeSubarraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/MergeSortedArrayPrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MergeSortedArrayPrac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/MinimumSizeSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MinimumSizeSubarraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/MinimumSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MinimumSubarraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/MinimumWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MinimumWindowSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/PermutationString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/PermutationString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/PrefixAndSuffixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/PrefixAndSuffixSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/RemoveDuplicates01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicates01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/ReverseVowelsString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/ReverseVowelsString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/SqauresOfSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/SqauresOfSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/SubarraySumDivByK.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/SubarraySumDivByK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/SubarraySumEqualsK.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/SubarraySumEqualsK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPatterns/Leetcode/src/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CRUDLinearDataStructure/Array/CRUDOperations/ArrayAllCrudOperationsInOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CRUDLinearDataStructure/Array/CRUDOperations/ArrayAllCrudOperationsInOne.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="35JZgB4yyCdsTgRdjNp0xfRu9xb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/BasicsOfJava/src/Day2/Notes" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Array.CRUDOperations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.Deprecatedmethods.Main" />
+      <module name="JavaPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Multithreading.Deprecatedmethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.AssignmentSolution.Main2" />
+      <module name="JavaPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Multithreading.AssignmentSolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multithreading.AssignmentSolution.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.AssignmentSolution.Main" />
+      <module name="JavaPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Multithreading.AssignmentSolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multithreading.Assignment.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.Assignment.Main" />
+      <module name="JavaPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Multithreading.Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multithreading.MonitorLockRealExample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading.MonitorLockRealExample.Main" />
+      <module name="JavaPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Multithreading.MonitorLockRealExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Multithreading.AssignmentSolution.Main" />
+        <item itemvalue="Application.Multithreading.Assignment.Main" />
+        <item itemvalue="Application.Multithreading.MonitorLockRealExample.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f35623e-6d97-4990-978a-f45574d9db82" name="Changes" comment="" />
+      <created>1762830243992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762830243992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/BasicProblems/SumOfEvenNumbers.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/BasicProblems/SumOfEvenNumbers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day2/Codes/TwoDArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day2/Codes/TwoDArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/SumOfFirstTenNumbers.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/SumOfFirstTenNumbers.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/SumOfFirstTenNumbers.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/PrintOneToN.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/PrintOneToN.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/PrintOneToN.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/FactorialOfN.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/FactorialOfN.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/SumOfDigitsOfNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/SumOfDigitsOfNumber.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/CountdigitsUsingRecursion.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BasicsOfJava/src/Day4/Recursion/CountdigitsUsingRecursion.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/Questions/RemoveEvenIntegersFromArray.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/Questions/RemoveEvenIntegersFromArray.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/Questions/RemoveEvenIntegersFromArray.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/Questions/RemoveEvenIntegersFromArray.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/Questions/RemoveEvenIntegersFromArray.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/Questions/RemoveEvenIntegersFromArray.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/Questions/RemoveEvenIntegersFromArray.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/Questions/RemoveEvenIntegersFromArray.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/Questions/RemoveEvenIntegersFromArray.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/InsertElementAtSpecificIndex.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/InsertElementAtSpecificIndex.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/InsertElementAtTheBeginning.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/InsertElementAtTheBeginning.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/InsertElementAtTheBeginning.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/DeleteElementAtTheSpecificIndex.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/DeleteElementAtTheSpecificIndex.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/DeleteFirstOccurrenceOfValue.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/DeleteFirstOccurrenceOfValue.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/DeleteFirstOccurrenceOfValue.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/DeleteFirstOccurrenceOfValue.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/CountOccurrencesOfValue.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/CountOccurrencesOfValue.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/DeleteAllOccurrenceOfValue.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/Array/CRUDOperations/DeleteAllOccurrenceOfValue.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestLL.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestLL.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestLL.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestLL.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestLL.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestDLLMain.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestDLLMain.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestDLL.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestDLL.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestDLL.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestDLL.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestDLL.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/CLL.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/CLL.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/CLL.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/CLL.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/CLL.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/CLL.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/CLL.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/MainCLL.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/MainCLL.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/MainCLL.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/MainCLL.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/MainCLL.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/LLMain.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/DLLMain.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/DLLMain.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/DLLMain.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/DLLMain.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/DLLMain.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/DLLMain.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/DLLMain.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/DLLMain.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/DLLMain.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/DLLMain.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/TwoSum.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/TwoSum.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/TwoSum.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/TwoSum.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/TwoSum.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeSortedArray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/MaximumSizeSubarraySum</url>
+          <line>12</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/MaximumSizeSubarraySum</url>
+          <line>11</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/MaximumSizeSubarraySum</url>
+          <line>13</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/MaximumSizeSubarraySum</url>
+          <line>14</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/MaximumSizeSubarraySum</url>
+          <line>16</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/MaximumSizeSubarraySum</url>
+          <line>15</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/MaximumSizeSubarraySum</url>
+          <line>17</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/MaximumSizeSubarraySum</url>
+          <line>19</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/MaximumSizeSubarraySum</url>
+          <line>4</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MaximumSizeSubarraySum.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/RemoveDuplicates.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MinimumWindowSubstring.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MinimumWindowSubstring.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MinimumWindowSubstring.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/RemoveDuplicatesFromSortedArray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/RemoveDuplicatesFromSortedArray.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/RemoveDuplicatesFromSortedArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/RemoveDuplicatesFromSortedArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/RemoveDuplicatesFromSortedArray.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/RemoveDuplicatesFromSortedArray.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/LongestSubstringwithKUniques.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MinimumSizeSubarraySum.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/LongestSubstringWithoutRepeatingChars.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/SubarraySumEqualsK.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/FindPivotIndex.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/FindPivotIndex.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/FindPivotIndex.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/FindPivotIndex.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MoveZeros.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/FindPrefixSum.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/FindPrefixSum.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/FindPrefixSum.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/FindPrefixSum.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/FindPrefixSum.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/FindPrefixSum.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/FindPrefixSum.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/POTD/PlusOne.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/POTD/PlusOne.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/POTD/PlusOne.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/POTD/PlusOne.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/POTD/PlusOne.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/POTD/NRepeatedElementSize2NArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/POTD/NRepeatedElementSize2NArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/POTD/NRepeatedElementSize2NArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/POTD/NRepeatedElementSize2NArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/BackspaceStringCompare.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/BackspaceStringCompare.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/BackspaceStringCompare.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Revision/src/TwoPointers/RemoveDuplicatesFromSortedArray.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Revision/src/TwoPointers/RemoveDuplicatesFromSortedArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Revision/src/TwoPointers/MoveZeros.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Revision/src/TwoPointers/MoveZeros.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Revision/src/TwoPointers/MoveZeros.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Revision/src/TwoPointers/MoveZeros.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java</url>
+          <line>33</line>
+          <properties class="LinkedList.CRUDOperations.DL" method="insert">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestDLL.java</url>
+          <line>34</line>
+          <properties class="LinkedList.CRUDOperations.Revision21Nov2025.TestDLL" method="insert">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestDLL.java</url>
+          <line>7</line>
+          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL" method="insertFirst">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestDLL.java</url>
+          <line>19</line>
+          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL" method="find">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestDLL.java</url>
+          <line>30</line>
+          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL" method="insert">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestDLL.java</url>
+          <line>46</line>
+          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL" method="insertLast">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestDLL.java</url>
+          <line>65</line>
+          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL" method="display">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MergeSortedArray.java</url>
+          <line>13</line>
+          <properties class="MergeSortedArray" method="merge">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MaximumSizeSubarraySum.java</url>
+          <line>8</line>
+          <properties class="MaximumSizeSubarraySum" method="minSubArrayLen">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode/src/RemoveDuplicates.java</url>
+          <line>8</line>
+          <properties class="RemoveDuplicates" method="removeDuplicates">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MinimumWindowSubstring.java</url>
+          <line>18</line>
+          <properties class="MinimumWindowSubstring" method="minWindow">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MinimumWindowSubstring.java</url>
+          <line>9</line>
+          <properties class="MinimumWindowSubstring" method="isInformationCorrect">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode/src/LongestSubstringwithKUniques.java</url>
+          <line>12</line>
+          <properties class="LongestSubstringwithKUniques" method="longestKSubstr">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MinimumSizeSubarraySum.java</url>
+          <line>8</line>
+          <properties class="MinimumSizeSubarraySum" method="minSubArrayLen">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode/src/LongestSubstringWithoutRepeatingChars.java</url>
+          <line>10</line>
+          <properties class="LongestSubstringWithoutRepeatingChars" method="lengthOfLongestSubstring">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode/src/MinimumSubarraySum.java</url>
+          <line>22</line>
+          <properties class="MinimumSubarraySum" method="smallestSumSubArray1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode/src/SubarraySumEqualsK.java</url>
+          <line>10</line>
+          <properties class="SubarraySumEqualsK" method="subarraySum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Leetcode/src/BackspaceStringCompare.java</url>
+          <line>19</line>
+          <properties class="BackspaceStringCompare" method="reconstructString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Revision/src/TwoPointers/MoveZeros.java</url>
+          <line>11</line>
+          <properties class="TwoPointers.MoveZeros" method="moveZeros">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PrepFor20LPA$RemoveEvenIntegersFromArray.ic" NAME="RemoveEvenIntegersFromArray Coverage Results" MODIFIED="1763370201486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Array.*</FILTER>
+    </SUITE>
+  </component>
+</project>

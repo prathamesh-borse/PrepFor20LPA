@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayPatterns/ArrayPatterns.iml" filepath="$PROJECT_DIR$/ArrayPatterns/ArrayPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicsOfJava/BasicsOfJava.iml" filepath="$PROJECT_DIR$/BasicsOfJava/BasicsOfJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRUDLinearDataStructure/CRUDLinearDataStructure.iml" filepath="$PROJECT_DIR$/CRUDLinearDataStructure/CRUDLinearDataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Development/Development.iml" filepath="$PROJECT_DIR$/Development/Development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPrep/JavaPrep.iml" filepath="$PROJECT_DIR$/JavaPrep/JavaPrep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PrepFor20LPA.iml" filepath="$PROJECT_DIR$/.idea/PrepFor20LPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revision/Revision.iml" filepath="$PROJECT_DIR$/Revision/Revision.iml" />
     </modules>
   </component>
 </project>

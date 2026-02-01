@@ -5,70 +5,194 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f35623e-6d97-4990-978a-f45574d9db82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA/src/Collections/CountByValuesUsingStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Collections/CustomComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/MinimumAbsoluteDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/CheckArrayIsSortedOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/FindMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/FindNumberAppearsOneTimeOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LargestElementInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LeftRotateArrayByKPlaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LeftRotateArrayByOnePlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/MaximumConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/MoveAllZerosToTheEndOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/RemoveDuplicatesFromSortedArrayInPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/SecondLargestElementFromTheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ArmStrongNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/CheckPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/CountDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/PrintAllDivisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Hashing/CharacterHashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Hashing/CountFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Hashing/FindHighestSmallestFrequencyElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/EightPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/ElevenPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/FifteenthPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/FifthPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/FirstPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/FourteenPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/FourthPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/NineteenthPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/NinthPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/PatternsFromStriverSheetLink" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/SecondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/SeventhPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/SeventiethPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/SixteenthPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/SixthPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/TenthPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/ThirteenPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/ThridPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/TwelvePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/TwentyOnePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns/TwentyPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/Print1ToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/PrintLinearNToOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/PrintLinearOneToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/PrintNToOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/PrintNToOneBacktrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/PrintNameFiveTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/PrintOneToNBacktrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/CheckPalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/FactorialOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/FibonacciMultipleRecursionCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/ReverseAnArrayUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/SumOfNNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/ValidPalindromeLC125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/CheckArrayIsSortedOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/FindMaxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/FindMinElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/LinearSearchUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/PrintAllArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelOne/FactorialOfN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelOne/FindSumOfFirstNNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelOne/PrintNameNTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelOne/PrintNumbersNToOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelOne/PrintNumbersOneToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/CheckNumberIsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/CheckNumberIsPowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/NthNumberFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/PrintFibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/SumOfDigitsOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/CheckArrayIsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/CheckStringPalindromeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/CountDigitsOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/ReverseAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/TimeSpaceComplexity/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/CustomClassAsKeyHashMap/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/CustomClassAsKeyHashMap/TestEmployeeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/EqualsAndDoubleEqualsComparison/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/EqualsAndDoubleEqualsComparison/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/ImmutableClass/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/ImmutableClass/TestFinalEmployeeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/Assignment/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/RaceCondition/RaceConditionDemoWithSynchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/RaceCondition/RaceConditionDemoWithoutSynchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/RaceConditionExample/TestRaceCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/SortingObjects/UsingComparator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/SortingObjects/UsingComparator/TestStudentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/ThreadSafeCheckExampleHashMap/CheckThreadSafety.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/ThreadingPractice/ExtendThreadClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/ThreadingPractice/RunnableInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/ThreadingPractice/TestRunnableInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayPatterns/ArrayPatterns.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayPatterns/src/LinearSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayPatterns/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayPatterns/src/SearchInTwoDArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayPatterns/src/countEvenDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicsOfJava/src/Day2/Notes/MainFunctionExplain.md" beforeDir="false" afterPath="$PROJECT_DIR$/BasicsOfJava/src/Day2/Notes/MainFunctionExplain.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/CLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/LL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/MainCLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestCLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestCLLMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestDLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestDLLMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/TestDL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/CLLMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/DLLMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/LLMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestCLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestDLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestSLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Development/Development.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Development/src/EqualsAndHashCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPrep/JavaPrep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPrep/JavaPrep.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/BackspaceStringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/BackspaceStringCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/ContiguousArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/ContiguousArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/FindAllAnagramInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/FindAllAnagramInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/HappyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/LongestSubstringWithoutRepeatingChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/LongestSubstringWithoutRepeatingChars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/LongestSubstringwithKUniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/LongestSubstringwithKUniques.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/MaximumSizeSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MaximumSizeSubarraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/MergeSortedArrayPrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MergeSortedArrayPrac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/MinimumSizeSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MinimumSizeSubarraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/MinimumSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MinimumSubarraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/MinimumWindowSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/MinimumWindowSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/PermutationString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/PermutationString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/PrefixAndSuffixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/PrefixAndSuffixSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicates01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicates01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/ReverseVowelsString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/ReverseVowelsString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/SqauresOfSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/SqauresOfSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/SubarraySumDivByK.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/SubarraySumDivByK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/SubarraySumEqualsK.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/SubarraySumEqualsK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/ValidPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/src/main/java/com/prep/PrepForJPMC/PrepForJpmcApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/src/main/java/com/prep/PrepForJPMC/controller/PrepController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/src/main/java/com/prep/PrepForJPMC/service/SimpleService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/src/test/java/com/prep/PrepForJPMC/PrepForJpmcApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Development/src/ConcurrentModificationException/HashMapThrowsCME.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Development/src/StrongWeakReference/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/JavaPrep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/JavaInterviewPrep.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/Assignment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/Assignment/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/Assignment/SharedFixedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/Assignment/SharedResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/AssignmentSolution/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/AssignmentSolution/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/AssignmentSolution/SharedResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/AssignmentSolution/SharedResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/Deprecatedmethods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/Deprecatedmethods/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/Deprecatedmethods/SharedResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/Deprecatedmethods/SharedResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/ExtendingThreadClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/ExtendingThreadClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/ExtendingThreadClass/MultithreadingLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/ExtendingThreadClass/MultithreadingLearning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/ImplementingRunnableInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/ImplementingRunnableInterface/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/ImplementingRunnableInterface/MultithreadingLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/ImplementingRunnableInterface/MultithreadingLearning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/MonitorLockExample/MonitorLockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/MonitorLockExample/MonitorLockExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/MonitorLockExample/MonitorLockExampleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/MonitorLockExample/MonitorLockExampleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/MonitorLockExample/MonitorThreadRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/MonitorLockExample/MonitorThreadRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/MonitorLockRealExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/MonitorLockRealExample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPrep/src/Multithreading/MonitorLockRealExample/SharedResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Multithreading/MonitorLockRealExample/SharedResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/BackspaceStringCompare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/ContiguousArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/FindAllAnagramInString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/FindPivotIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/FindPrefixSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/HappyNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/LongestSubArrayWithSumK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/LongestSubstringWithoutRepeatingChars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/LongestSubstringwithKUniques.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/MaxSumSubarraySizeK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/MaximumSizeSubarraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/MergeInterval/InsertInterval.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/MergeInterval/IntervalListIntersections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/MergeInterval/MergeIntervals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/MergeSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/MergeSortedArrayPrac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/MinimumSizeSubarraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/MinimumSubarraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/MinimumWindowSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/MoveZeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/POTD/FourDivisors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/POTD/MaxDotProductOfTwoSubsequences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/POTD/MaximumMatrixSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/POTD/NRepeatedElementSize2NArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/POTD/NumberOfWaysToPaint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/POTD/PlusOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/POTD/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/POTD/TreeNodeMaximumProductofSplittedBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/PermutationString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/PrefixAndSuffixSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/PrintAllSubstrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicates01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/RemoveDuplicatesFromSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/ReverseVowelsString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/SqauresOfSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/SubArraySumDivisibleByK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/SubarraySumDivByK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/SubarraySumEqualsK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/ValidPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revision/Revision.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revision/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revision/src/TwoPointers/MoveZeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Revision/src/TwoPointers/RemoveDuplicatesFromSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/target/classes/com/prep/PrepForJPMC/PrepForJpmcApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/target/classes/com/prep/PrepForJPMC/controller/PrepController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/target/classes/com/prep/PrepForJPMC/service/SimpleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrep/Multithreading/Assignment/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrep/Multithreading/Assignment/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrep/Multithreading/Assignment/SharedFixedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrep/Multithreading/AssignmentSolution/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrep/Multithreading/AssignmentSolution/SharedQueue.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,33 +220,39 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/Users/prathameshborse/eclipse-workspace/PrepFor20LPA",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/BasicsOfJava/src/Day2/Notes" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="StriverSheet.Sorting" />
+      <recent name="StriverSheet.Recursion.Revision.LevelFour" />
       <recent name="Array.CRUDOperations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Deprecatedmethods.Main" />
-      <module name="JavaPrep" />
+  <component name="RunManager" selected="Application.FindNumberAppearsOneTimeOnly">
+    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Easy.FindMissingNumber" />
+      <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.Deprecatedmethods.*" />
+          <option name="PATTERN" value="StriverSheet.Array.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.AssignmentSolution.Main2" />
-      <module name="JavaPrep" />
+    <configuration name="FindNumberAppearsOneTimeOnly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Easy.FindNumberAppearsOneTimeOnly" />
+      <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.AssignmentSolution.*" />
+          <option name="PATTERN" value="StriverSheet.Array.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multithreading.AssignmentSolution.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.AssignmentSolution.Main" />
-      <module name="JavaPrep" />
+    <configuration name="LeftRotateArrayGFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Easy.LeftRotateArrayGFG" />
+      <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.AssignmentSolution.*" />
+          <option name="PATTERN" value="StriverSheet.Array.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multithreading.Assignment.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Assignment.Main" />
-      <module name="JavaPrep" />
+    <configuration name="MaximumConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Easy.MaximumConsecutiveOnes" />
+      <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.Assignment.*" />
+          <option name="PATTERN" value="StriverSheet.Array.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +299,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multithreading.MonitorLockRealExample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.MonitorLockRealExample.Main" />
-      <module name="JavaPrep" />
+    <configuration name="MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Easy.MoveZeros" />
+      <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.MonitorLockRealExample.*" />
+          <option name="PATTERN" value="StriverSheet.Array.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,13 +312,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.FindMissingNumber" />
+      <item itemvalue="Application.FindNumberAppearsOneTimeOnly" />
+      <item itemvalue="Application.LeftRotateArrayGFG" />
+      <item itemvalue="Application.MaximumConsecutiveOnes" />
+      <item itemvalue="Application.MoveZeros" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Multithreading.AssignmentSolution.Main" />
-        <item itemvalue="Application.Multithreading.Assignment.Main" />
-        <item itemvalue="Application.Multithreading.MonitorLockRealExample.Main" />
+        <item itemvalue="Application.FindNumberAppearsOneTimeOnly" />
+        <item itemvalue="Application.MaximumConsecutiveOnes" />
+        <item itemvalue="Application.FindMissingNumber" />
+        <item itemvalue="Application.MoveZeros" />
+        <item itemvalue="Application.LeftRotateArrayGFG" />
       </list>
     </recent_temporary>
   </component>
@@ -977,10 +1114,685 @@
           <line>7</line>
           <option name="timeStamp" value="274" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/TimeSpaceComplexity/NestedLoops.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/TimeSpaceComplexity/NestedLoops.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ReverseInteger.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ReverseInteger.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ReverseInteger.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ReverseInteger.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ReverseInteger.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ReverseInteger.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ReverseInteger.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ArmStrongNumbers.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ArmStrongNumbers.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ArmStrongNumbers.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/ArmStrongNumbers.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/GCD.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/GCD.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/GCD.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/BasicMath/GCD.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/Print1ToN.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/Print1ToN.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/Print1ToN.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/Print1ToN.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/PrintNameFiveTimes.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/PrintNameFiveTimes.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/PrintNameFiveTimes.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/BasicPrograms/PrintNameFiveTimes.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/FactorialOfNumber.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/FactorialOfNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/FactorialOfNumber.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/FactorialOfNumber.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/FactorialOfNumber.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/FactorialOfNumber.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/ParameterisedFunctionalWay/FactorialOfNumber.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/ReverseAnArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/ReverseAnArray.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/ReverseAnArray.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/ReverseAnArray.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/ReverseAnArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/CountDigitsOfANumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/CountDigitsOfANumber.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/CountDigitsOfANumber.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/CountDigitsOfANumber.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelTwo/CountDigitsOfANumber.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/SumOfDigitsOfNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/SumOfDigitsOfNumber.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/SumOfDigitsOfNumber.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/SumOfDigitsOfNumber.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/CheckNumberIsPowerOfTwo.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/CheckNumberIsPowerOfTwo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelThree/CheckNumberIsPowerOfTwo.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/LinearSearchUsingRecursion.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/LinearSearchUsingRecursion.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/LinearSearchUsingRecursion.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/CheckArrayIsSortedOrNot.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/CheckArrayIsSortedOrNot.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/CheckArrayIsSortedOrNot.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Recursion/RecursionRevision/LevelFour/CheckArrayIsSortedOrNot.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Hashing/CountFrequency.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/BubbleSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/SelectionSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/SecondLargestElementFromTheArray.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/SecondLargestElementFromTheArray.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/SecondLargestElementFromTheArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/SecondLargestElementFromTheArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/SecondLargestElementFromTheArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/SecondLargestElementFromTheArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/SecondLargestElementFromTheArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/SecondLargestElementFromTheArray.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/SecondLargestElementFromTheArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/RemoveDuplicatesFromSortedArrayInPlace.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/RemoveDuplicatesFromSortedArrayInPlace.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/RemoveDuplicatesFromSortedArrayInPlace.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/RemoveDuplicatesFromSortedArrayInPlace.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/RemoveDuplicatesFromSortedArrayInPlace.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LeftRotateArrayByOnePlace.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LeftRotateArrayByOnePlace.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LeftRotateArrayByOnePlace.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LeftRotateArrayByOnePlace.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LeftRotateArrayByKPlaces.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LeftRotateArrayByKPlaces.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LeftRotateArrayByKPlaces.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LeftRotateArrayByKPlaces.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="441" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="449" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="453" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="454" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="456" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="458" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="459" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="461" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="462" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="465" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/FindMissingNumber.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/FindMissingNumber.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/FindMissingNumber.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/FindMissingNumber.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/FindMissingNumber.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="484" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/FindMissingNumber.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/MaximumConsecutiveOnes.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/MaximumConsecutiveOnes.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/MaximumConsecutiveOnes.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/MaximumConsecutiveOnes.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/MaximumConsecutiveOnes.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/MaximumConsecutiveOnes.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/MaximumConsecutiveOnes.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/FindNumberAppearsOneTimeOnly.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/FindNumberAppearsOneTimeOnly.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java</url>
           <line>33</line>
-          <properties class="LinkedList.CRUDOperations.DL" method="insert">
+          <properties class="LinkedList.CRUDOperations.DL">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -989,7 +1801,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/Revision21Nov2025/TestDLL.java</url>
           <line>34</line>
-          <properties class="LinkedList.CRUDOperations.Revision21Nov2025.TestDLL" method="insert">
+          <properties class="LinkedList.CRUDOperations.Revision21Nov2025.TestDLL">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -998,7 +1810,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestDLL.java</url>
           <line>7</line>
-          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL" method="insertFirst">
+          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1007,7 +1819,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestDLL.java</url>
           <line>19</line>
-          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL" method="find">
+          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1016,7 +1828,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestDLL.java</url>
           <line>30</line>
-          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL" method="insert">
+          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1025,7 +1837,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestDLL.java</url>
           <line>46</line>
-          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL" method="insertLast">
+          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1034,7 +1846,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/revision202522Nov/TestDLL.java</url>
           <line>65</line>
-          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL" method="display">
+          <properties class="LinkedList.CRUDOperations.revision202522Nov.TestDLL">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1043,7 +1855,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode/src/MergeSortedArray.java</url>
           <line>13</line>
-          <properties class="MergeSortedArray" method="merge">
+          <properties class="MergeSortedArray">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1052,7 +1864,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode/src/MaximumSizeSubarraySum.java</url>
           <line>8</line>
-          <properties class="MaximumSizeSubarraySum" method="minSubArrayLen">
+          <properties class="MaximumSizeSubarraySum">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1061,7 +1873,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode/src/RemoveDuplicates.java</url>
           <line>8</line>
-          <properties class="RemoveDuplicates" method="removeDuplicates">
+          <properties class="RemoveDuplicates">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1070,7 +1882,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode/src/MinimumWindowSubstring.java</url>
           <line>18</line>
-          <properties class="MinimumWindowSubstring" method="minWindow">
+          <properties class="MinimumWindowSubstring">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1079,7 +1891,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode/src/MinimumWindowSubstring.java</url>
           <line>9</line>
-          <properties class="MinimumWindowSubstring" method="isInformationCorrect">
+          <properties class="MinimumWindowSubstring">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1088,7 +1900,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode/src/LongestSubstringwithKUniques.java</url>
           <line>12</line>
-          <properties class="LongestSubstringwithKUniques" method="longestKSubstr">
+          <properties class="LongestSubstringwithKUniques">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1097,7 +1909,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode/src/MinimumSizeSubarraySum.java</url>
           <line>8</line>
-          <properties class="MinimumSizeSubarraySum" method="minSubArrayLen">
+          <properties class="MinimumSizeSubarraySum">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1106,7 +1918,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode/src/LongestSubstringWithoutRepeatingChars.java</url>
           <line>10</line>
-          <properties class="LongestSubstringWithoutRepeatingChars" method="lengthOfLongestSubstring">
+          <properties class="LongestSubstringWithoutRepeatingChars">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1115,7 +1927,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode/src/MinimumSubarraySum.java</url>
           <line>22</line>
-          <properties class="MinimumSubarraySum" method="smallestSumSubArray1">
+          <properties class="MinimumSubarraySum">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1124,7 +1936,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode/src/SubarraySumEqualsK.java</url>
           <line>10</line>
-          <properties class="SubarraySumEqualsK" method="subarraySum">
+          <properties class="SubarraySumEqualsK">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1133,7 +1945,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Leetcode/src/BackspaceStringCompare.java</url>
           <line>19</line>
-          <properties class="BackspaceStringCompare" method="reconstructString">
+          <properties class="BackspaceStringCompare">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -1142,11 +1954,47 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Revision/src/TwoPointers/MoveZeros.java</url>
           <line>11</line>
-          <properties class="TwoPointers.MoveZeros" method="moveZeros">
+          <properties class="TwoPointers.MoveZeros">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/SecondLargestElementFromTheArray.java</url>
+          <line>9</line>
+          <properties class="StriverSheet.Array.Easy.SecondLargestElementFromTheArray" method="getSecondLargest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/QuickSort.java</url>
+          <line>11</line>
+          <properties class="StriverSheet.Sorting.QuickSort" method="quickSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LeftRotateArrayByKPlaces.java</url>
+          <line>14</line>
+          <properties class="StriverSheet.Array.Easy.LeftRotateArrayByKPlaces" method="rightRotateArrayByDPlaces">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java</url>
+          <line>14</line>
+          <properties class="StriverSheet.Array.Easy.IntersectionOfTwoSortedArrays" method="intersectionOptimal">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="457" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

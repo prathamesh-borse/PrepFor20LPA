@@ -19,12 +19,21 @@ public class IntersectionOfTwoSortedArrays {
         int i = 0, j = 0;
         List<Integer> ans = new ArrayList<>();
         while (i < n1 && j < n2) {
+            // move the pointer of smaller value
             if (A[i] < B[j]) {
                 i++;
-            } else if (B[j] < A[i]) {
+            }
+            // move the pointer of smaller value
+            else if (B[j] < A[i]) {
                 j++;
             } else {
-                if (!ans.contains(A[i])) {
+                // if both values match then insert it
+                // initial check if the ans list is size is zero or not
+                if (ans.size() == 0) {
+                    ans.add(A[i]);
+                }
+                // checking the last element because we want to avoid duplicates so the last added element should not equal to current
+                else if (ans.get(ans.size() - 1) != A[i]) {
                     ans.add(A[i]);
                 }
                 i++;

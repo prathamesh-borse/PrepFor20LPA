@@ -12,9 +12,13 @@ public class InsertionSort {
     private static int[] InsertionSort(int[] arr) {
         int n = arr.length;
 
-        for (int i = 0; i <= n - 1; i++) {
-            int j = i;
+        // code here
+        // select one element and place it at its correct position
+        for (int i = 0; i <= arr.length - 1; i++) {
+            int j = i; // pick one element
             while (j > 0 && arr[j - 1] > arr[j]) {
+                // swap the element till if we find j - 1 element is greater than
+                // the current array index j element
                 swap(arr, j - 1, j);
                 j--;
             }
@@ -32,9 +36,9 @@ public class InsertionSort {
     public void insertionSort(int arr[]) {
         // code here
         // select one element and place it at its correct position
-        for(int i = 0; i <= arr.length - 1; i++) {
+        for (int i = 0; i <= arr.length - 1; i++) {
             int j = i; // pick one element
-            while(j > 0 && arr[j - 1] > arr[j]) {
+            while (j > 0 && arr[j - 1] > arr[j]) {
                 // swap the element till if we find j - 1 element is greater than
                 // the current array index j element
                 swap(arr, j - 1, j);

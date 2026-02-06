@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f35623e-6d97-4990-978a-f45574d9db82" name="Changes" comment="Code">
-      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/LongestSubarrayWithSumK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/SortArrayOfZeroOneTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/TransformedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/MajorityElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBackend/PrepForJPMC/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Easy/IntersectionOfTwoSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Sorting/InsertionSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,22 +37,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "/Users/prathameshborse/eclipse-workspace/PrepFor20LPA",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/prathameshborse/eclipse-workspace/PrepFor20LPA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DSA/src/StriverSheet/Patterns" />
@@ -66,48 +65,9 @@
       <recent name="Array.CRUDOperations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortArrayOfZeroOneTwo">
-    <configuration name="LongestSubareaWithSumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Easy.LongestSubareaWithSumK" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StriverSheet.Array.Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestSubarrayPositives" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Easy.LongestSubarrayPositives" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StriverSheet.Array.Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestSubarrayWithSumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Easy.LongestSubarrayWithSumK" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StriverSheet.Array.Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortArrayOfZeroOneTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.SortArrayOfZeroOneTwo" />
+  <component name="RunManager" selected="Application.MaximumSubarraySum">
+    <configuration name="MajorityElement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.MajorityElement2" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -119,12 +79,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.TwoSum" />
+    <configuration name="MaximumSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.MaximumSubarraySum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StriverSheet.Array.Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateArrayByD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Easy.RotateArrayByD" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StriverSheet.Array.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Sorting.SelectionSort1" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StriverSheet.Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnionOfTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Easy.UnionOfTwoSortedArrays" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StriverSheet.Array.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,19 +132,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LongestSubareaWithSumK" />
-      <item itemvalue="Application.LongestSubarrayPositives" />
-      <item itemvalue="Application.LongestSubarrayWithSumK" />
-      <item itemvalue="Application.SortArrayOfZeroOneTwo" />
-      <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.MajorityElement2" />
+      <item itemvalue="Application.MaximumSubarraySum" />
+      <item itemvalue="Application.RotateArrayByD" />
+      <item itemvalue="Application.SelectionSort1" />
+      <item itemvalue="Application.UnionOfTwoSortedArrays" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortArrayOfZeroOneTwo" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.LongestSubarrayPositives" />
-        <item itemvalue="Application.LongestSubarrayWithSumK" />
-        <item itemvalue="Application.LongestSubareaWithSumK" />
+        <item itemvalue="Application.MaximumSubarraySum" />
+        <item itemvalue="Application.MajorityElement2" />
+        <item itemvalue="Application.UnionOfTwoSortedArrays" />
+        <item itemvalue="Application.RotateArrayByD" />
+        <item itemvalue="Application.SelectionSort1" />
       </list>
     </recent_temporary>
   </component>
@@ -1233,27 +1232,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="358" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="359" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="360" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java</url>
-          <line>17</line>
+          <line>21</line>
           <option name="timeStamp" value="362" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Sorting/InsertionSort.java</url>
-          <line>18</line>
+          <line>22</line>
           <option name="timeStamp" value="363" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1428,32 +1412,32 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
-          <line>49</line>
+          <line>68</line>
           <option name="timeStamp" value="427" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
-          <line>53</line>
+          <line>72</line>
           <option name="timeStamp" value="429" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
-          <line>57</line>
+          <line>76</line>
           <option name="timeStamp" value="431" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
-          <line>59</line>
+          <line>78</line>
           <option name="timeStamp" value="432" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
-          <line>60</line>
+          <line>79</line>
           <option name="timeStamp" value="433" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
-          <line>61</line>
+          <line>80</line>
           <option name="timeStamp" value="434" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1766,6 +1750,46 @@
           <line>9</line>
           <option name="timeStamp" value="545" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/MajorityElement.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/MajorityElement.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="559" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/MajorityElement.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="561" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/MajorityElement.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="563" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/MajorityElement.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="564" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/MajorityElement.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="565" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/MajorityElement.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="566" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/MajorityElement.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="567" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java</url>
           <line>33</line>
@@ -1972,6 +1996,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
+          <line>31</line>
+          <properties class="StriverSheet.Array.Easy.UnionOfTwoSortedArrays" method="unionOfTwoSortedArraysOptimal">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="590" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Easy/UnionOfTwoSortedArrays.java</url>
+          <line>12</line>
+          <properties class="StriverSheet.Array.Easy.UnionOfTwoSortedArrays" method="intersection">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="591" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

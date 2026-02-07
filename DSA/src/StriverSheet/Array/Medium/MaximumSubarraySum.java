@@ -3,7 +3,6 @@ package StriverSheet.Array.Medium;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Map;
 
 public class MaximumSubarraySum {
     public static void main(String[] args) {
@@ -16,18 +15,31 @@ public class MaximumSubarraySum {
     }
 
     private static int maxSubArraySumKadanesAlgorithm(int[] nums) {
-        int maxi = Integer.MIN_VALUE, sum = 0;
+        int maxi = Integer.MIN_VALUE, sum = 0, start = 0;
+        int ansStart = -1, ansEnd = -1;
         for (int i = 0; i < nums.length; i++) {
+            if (i == 0) {
+                start = i;
+            }
             sum += nums[i];
 
             if (sum > maxi) {
-                maxi = Math.max(maxi, sum);
+                maxi = sum;
+                ansStart = start;
+                ansEnd = i;
             }
 
             if (sum < 0) {
                 sum = 0;
+                start = i + 1;
             }
         }
+
+        List<Integer> ans = new ArrayList<>();
+        for (int i = ansStart; i <= ansEnd; i++) {
+            ans.add(nums[i]);
+        }
+        System.out.println(Arrays.asList(ans));
         return maxi;
     }
 

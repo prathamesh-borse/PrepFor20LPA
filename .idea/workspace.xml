@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f35623e-6d97-4990-978a-f45574d9db82" name="Changes" comment="Code">
-      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/PrintAllPermutationsOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/RearrangeArrayElementsBySign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/CountDominant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/CountSubarraysWithCostLessthanEqualToK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/MergeAdjcentEqualElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LeadersInAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/MaximumSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/MaximumSubarraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/MaximumSubarraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/MaximumSubarraySum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +54,15 @@
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CountDominant.executor": "Run",
+    "Application.LeadersInAnArray.executor": "Debug",
+    "Application.MergeAdjcentEqualElements.executor": "Run",
     "Application.PrintAllPermutationsOfArray.executor": "Run",
     "Application.RearrangeArrayElementsBySign.executor": "Run",
+    "Application.StaticDemo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -83,9 +88,22 @@
       <recent name="Array.CRUDOperations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintAllPermutationsOfArray">
-    <configuration name="MajorityElement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.MajorityElement2" />
+  <component name="RunManager" selected="Application.LeadersInAnArray">
+    <configuration name="CountDominant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.CountDominant" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeadersInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.LeadersInAnArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.MaximumSubarraySum" />
+    <configuration name="MergeAdjcentEqualElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.MergeAdjcentEqualElements" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StriverSheet.Array.Medium.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,25 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RearrangeArrayElementsBySign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.RearrangeArrayElementsBySign" />
+    <configuration name="StaticDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.StaticDemo" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StriverSheet.Array.Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnionOfTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Easy.UnionOfTwoSortedArrays" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StriverSheet.Array.Easy.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +155,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CountDominant" />
+      <item itemvalue="Application.LeadersInAnArray" />
+      <item itemvalue="Application.MergeAdjcentEqualElements" />
       <item itemvalue="Application.PrintAllPermutationsOfArray" />
-      <item itemvalue="Application.RearrangeArrayElementsBySign" />
-      <item itemvalue="Application.MajorityElement2" />
-      <item itemvalue="Application.MaximumSubarraySum" />
-      <item itemvalue="Application.UnionOfTwoSortedArrays" />
+      <item itemvalue="Application.StaticDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeadersInAnArray" />
+        <item itemvalue="Application.StaticDemo" />
+        <item itemvalue="Application.MergeAdjcentEqualElements" />
+        <item itemvalue="Application.CountDominant" />
         <item itemvalue="Application.PrintAllPermutationsOfArray" />
-        <item itemvalue="Application.RearrangeArrayElementsBySign" />
-        <item itemvalue="Application.MaximumSubarraySum" />
-        <item itemvalue="Application.MajorityElement2" />
-        <item itemvalue="Application.UnionOfTwoSortedArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -1828,6 +1833,66 @@
           <line>9</line>
           <option name="timeStamp" value="597" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/Leetcode/CountDominant.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="600" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/Leetcode/CountDominant.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="602" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/Leetcode/CountDominant.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="605" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/Leetcode/CountDominant.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="606" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/Leetcode/CountDominant.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="607" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/Leetcode/CountDominant.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="608" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/Leetcode/MergeAdjcentEqualElements.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="609" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LeadersInAnArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="612" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LeadersInAnArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="613" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LeadersInAnArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="614" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LeadersInAnArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="615" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LeadersInAnArray.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="617" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java</url>
           <line>33</line>
@@ -2070,6 +2135,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="598" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/Leetcode/CountDominant.java</url>
+          <line>9</line>
+          <properties class="Leetcode.CountDominant" method="dominantIndices">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="601" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/Leetcode/CountDominant.java</url>
+          <line>20</line>
+          <properties class="Leetcode.CountDominant" method="average">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="603" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/Leetcode/MergeAdjcentEqualElements.java</url>
+          <line>13</line>
+          <properties class="Leetcode.MergeAdjcentEqualElements" method="mergeAdjcent">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="611" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LeadersInAnArray.java</url>
+          <line>25</line>
+          <properties class="StriverSheet.Array.Medium.LeadersInAnArray" method="checkEverythingOnTheRightIsSmallerOrNot">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="616" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

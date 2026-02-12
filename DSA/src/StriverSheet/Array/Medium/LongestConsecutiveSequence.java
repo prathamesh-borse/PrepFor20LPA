@@ -2,7 +2,6 @@ package StriverSheet.Array.Medium;
 
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.Iterator;
 
 public class LongestConsecutiveSequence {
     public static void main(String[] args) {

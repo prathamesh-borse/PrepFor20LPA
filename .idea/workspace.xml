@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f35623e-6d97-4990-978a-f45574d9db82" name="Changes" comment="Code">
-      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/LongestBalancedSubarrayI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/SetMatrixZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/LongestBalancedSubstringI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/RotateMatrixBy90Degrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/SubarraySumEqualsK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LeadersInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LeadersInAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/LeadersInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/LeadersInAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/LongestConsecutiveSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/LongestConsecutiveSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/LongestConsecutiveSequence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +59,16 @@
     "Application.CountDominant.executor": "Run",
     "Application.LeadersInAnArray.executor": "Run",
     "Application.LongestBalancedSubarrayI.executor": "Run",
+    "Application.LongestBalancedSubstringI.executor": "Run",
     "Application.LongestConsecutiveSequence.executor": "Run",
     "Application.MergeAdjcentEqualElements.executor": "Run",
     "Application.PrintAllPermutationsOfArray.executor": "Run",
     "Application.RearrangeArrayElementsBySign.executor": "Run",
+    "Application.RotateMatrixBy90Degrees.executor": "Run",
     "Application.SetMatrixZeros.executor": "Debug",
+    "Application.SpiralMatrix.executor": "Debug",
     "Application.StaticDemo.executor": "Run",
+    "Application.SubarraySumEqualsK.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -92,22 +97,9 @@
       <recent name="Array.CRUDOperations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetMatrixZeros">
-    <configuration name="LeadersInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.LeadersInAnArray" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StriverSheet.Array.Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestBalancedSubarrayI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.LongestBalancedSubarrayI" />
+  <component name="RunManager" selected="Application.SubarraySumEqualsK">
+    <configuration name="LongestBalancedSubstringI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.LongestBalancedSubstringI" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.LongestConsecutiveSequence" />
+    <configuration name="RotateMatrixBy90Degrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.RotateMatrixBy90Degrees" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -145,12 +137,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.StaticDemo" />
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.SpiralMatrix" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
+          <option name="PATTERN" value="StriverSheet.Array.Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubarraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.SubarraySumEqualsK" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StriverSheet.Array.Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,19 +164,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeadersInAnArray" />
-      <item itemvalue="Application.LongestBalancedSubarrayI" />
-      <item itemvalue="Application.LongestConsecutiveSequence" />
+      <item itemvalue="Application.LongestBalancedSubstringI" />
+      <item itemvalue="Application.RotateMatrixBy90Degrees" />
       <item itemvalue="Application.SetMatrixZeros" />
-      <item itemvalue="Application.StaticDemo" />
+      <item itemvalue="Application.SpiralMatrix" />
+      <item itemvalue="Application.SubarraySumEqualsK" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubarraySumEqualsK" />
+        <item itemvalue="Application.SpiralMatrix" />
+        <item itemvalue="Application.RotateMatrixBy90Degrees" />
+        <item itemvalue="Application.LongestBalancedSubstringI" />
         <item itemvalue="Application.SetMatrixZeros" />
-        <item itemvalue="Application.LongestConsecutiveSequence" />
-        <item itemvalue="Application.LongestBalancedSubarrayI" />
-        <item itemvalue="Application.LeadersInAnArray" />
-        <item itemvalue="Application.StaticDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -1907,6 +1912,21 @@
           <line>5</line>
           <option name="timeStamp" value="621" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/SpiralMatrix.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="634" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/SubarraySumEqualsK.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="639" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/SubarraySumEqualsK.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="641" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/CRUDLinearDataStructure/src/LinkedList/CRUDOperations/DL.java</url>
           <line>33</line>
@@ -2221,6 +2241,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="632" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/SpiralMatrix.java</url>
+          <line>44</line>
+          <properties class="StriverSheet.Array.Medium.SpiralMatrix" method="spiralOrderLC">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="638" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/SubarraySumEqualsK.java</url>
+          <line>26</line>
+          <properties class="StriverSheet.Array.Medium.SubarraySumEqualsK" method="subarraySum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="640" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

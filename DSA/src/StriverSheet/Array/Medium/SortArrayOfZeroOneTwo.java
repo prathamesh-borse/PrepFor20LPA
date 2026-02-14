@@ -7,8 +7,47 @@ import java.util.List;
 public class SortArrayOfZeroOneTwo {
     public static void main(String[] args) {
         int[] arr = {0, 1, 2, 0, 1, 2, 1, 2, 0, 0, 0, 1};
-        int[] ans = sortArrayOptimal(arr);
-        System.out.println(Arrays.toString(ans));
+//        int[] ans = sortArrayOptimal(arr);
+//        System.out.println(Arrays.toString(ans));
+
+        sortArray(arr);
+    }
+
+    public static void sortArray(int[] nums) {
+        List<Integer> zero = new ArrayList<>();
+        List<Integer> ones = new ArrayList<>();
+        List<Integer> twos = new ArrayList<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 0) {
+                zero.add(nums[i]);
+            } else if (nums[i] == 1) {
+                ones.add(nums[i]);
+            } else {
+                twos.add(nums[i]);
+            }
+        }
+
+        int zerosSize = zero.size();
+        int onesSize = ones.size();
+        int twosSize = twos.size();
+        int index = 0;
+        for (int i = 0; i < zerosSize; i++) {
+            nums[index] = zero.get(i);
+            index++;
+        }
+
+        for (int i = 0; i < onesSize; i++) {
+            nums[index] = ones.get(i);
+            index++;
+        }
+
+        for (int i = 0; i < twosSize; i++) {
+            nums[index] = twos.get(i);
+            index++;
+        }
+
+        System.out.println(Arrays.toString(nums));
     }
 
     private static int[] sortArrayOptimal(int[] arr) {

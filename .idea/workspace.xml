@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f35623e-6d97-4990-978a-f45574d9db82" name="Changes" comment="Code">
-      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/HouseRobber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/PalindromePathInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/FirstElementUniqueFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/LongestAlmostPalindromeSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/MaxXor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/Leetcode/ToggleLightBulbs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/Leetcode/PrefixConnectedGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/Leetcode/PrefixConnectedGroups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/Leetcode/WordMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/Leetcode/WordMapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/Revision.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/Revision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/SortArrayOfZeroOneTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/SortArrayOfZeroOneTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/SortArrayOfZeroOneTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/SortArrayOfZeroOneTwo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,10 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.CountDominant.executor": "Run",
+    "Application.FirstElementUniqueFrequency.executor": "Run",
+    "Application.HouseRobber.executor": "Run",
     "Application.LeadersInAnArray.executor": "Run",
+    "Application.LongestAlmostPalindromeSubstring.executor": "Run",
     "Application.LongestBalancedSubarrayI.executor": "Run",
     "Application.LongestBalancedSubstringI.executor": "Run",
     "Application.LongestConsecutiveSequence.executor": "Run",
@@ -72,6 +72,7 @@
     "Application.SpiralMatrix.executor": "Debug",
     "Application.StaticDemo.executor": "Run",
     "Application.SubarraySumEqualsK.executor": "Run",
+    "Application.ToggleLightBulbs.executor": "Run",
     "Application.TwoSumRevision.executor": "Run",
     "Application.WordMapping.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -102,9 +103,9 @@
       <recent name="Array.CRUDOperations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HouseRobber">
-    <configuration name="HouseRobber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.HouseRobber" />
+  <component name="RunManager" selected="Application.MaxXor (1)">
+    <configuration name="FirstElementUniqueFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.FirstElementUniqueFrequency" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrefixConnectedGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.PrefixConnectedGroups" />
+    <configuration name="LongestAlmostPalindromeSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.LongestAlmostPalindromeSubstring" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Revision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.Revision" />
+    <configuration name="MaxXor (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.MaxXor" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StriverSheet.Array.Medium.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArrayOfZeroOneTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.SortArrayOfZeroOneTwo" />
+    <configuration name="MaxXor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.MaxXor" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StriverSheet.Array.Medium.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,8 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordMapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.WordMapping" />
+    <configuration name="ToggleLightBulbs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.ToggleLightBulbs" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -169,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HouseRobber" />
-      <item itemvalue="Application.PrefixConnectedGroups" />
-      <item itemvalue="Application.TwoSumRevision" />
-      <item itemvalue="Application.SortArrayOfZeroOneTwo" />
-      <item itemvalue="Application.WordMapping" />
+      <item itemvalue="Application.FirstElementUniqueFrequency" />
+      <item itemvalue="Application.LongestAlmostPalindromeSubstring" />
+      <item itemvalue="Application.MaxXor" />
+      <item itemvalue="Application.MaxXor (1)" />
+      <item itemvalue="Application.ToggleLightBulbs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HouseRobber" />
-        <item itemvalue="Application.PrefixConnectedGroups" />
-        <item itemvalue="Application.WordMapping" />
-        <item itemvalue="Application.TwoSumRevision" />
-        <item itemvalue="Application.SortArrayOfZeroOneTwo" />
+        <item itemvalue="Application.MaxXor (1)" />
+        <item itemvalue="Application.MaxXor" />
+        <item itemvalue="Application.LongestAlmostPalindromeSubstring" />
+        <item itemvalue="Application.FirstElementUniqueFrequency" />
+        <item itemvalue="Application.ToggleLightBulbs" />
       </list>
     </recent_temporary>
   </component>

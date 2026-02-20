@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f35623e-6d97-4990-978a-f45574d9db82" name="Changes" comment="Code">
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Practice/ExtendingAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Practice/ImmutableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Practice/Something.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Practice/SomethingOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/Practice/TestingAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/SOLIDPrinciples/NotificationAfterOCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/SOLIDPrinciples/NotificationBeforeOCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/SOLIDPrinciples/ProductAfterSRP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaInterviewPrep/src/SOLIDPrinciples/ProductBeforeSRP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/Revision.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/Revision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/RotateMatrixBy90Degrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/StriverSheet/Array/Medium/RotateMatrixBy90Degrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/Revision.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/Revision.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/RotateMatrixBy90Degrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/StriverSheet/Array/Medium/RotateMatrixBy90Degrees.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,6 +69,8 @@
     "Application.LongestBalancedSubarrayI.executor": "Run",
     "Application.LongestBalancedSubstringI.executor": "Run",
     "Application.LongestConsecutiveSequence.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MaxXor (1).executor": "Run",
     "Application.MaxXor.executor": "Run",
     "Application.MergeAdjcentEqualElements.executor": "Run",
@@ -106,7 +115,7 @@
       <recent name="Array.CRUDOperations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RotateMatrixBy90Degrees">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="LeadersInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StriverSheet.Array.Medium.LeadersInAnArray" />
       <module name="DSA" />
@@ -120,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxXor (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.MaxXor" />
-      <module name="DSA" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Main" />
+      <module name="JavaInterviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxXor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.MaxXor" />
-      <module name="DSA" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Main" />
+      <module name="JavaInterviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,18 +183,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.LeadersInAnArray" />
-      <item itemvalue="Application.MaxXor" />
-      <item itemvalue="Application.MaxXor (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Revision" />
       <item itemvalue="Application.RotateMatrixBy90Degrees" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.RotateMatrixBy90Degrees" />
         <item itemvalue="Application.Revision" />
         <item itemvalue="Application.LeadersInAnArray" />
-        <item itemvalue="Application.MaxXor (1)" />
-        <item itemvalue="Application.MaxXor" />
       </list>
     </recent_temporary>
   </component>
